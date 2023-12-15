@@ -523,7 +523,7 @@ progress {
 }
 .img-fluid,
 .img-thumbnail {
-  height: auto;
+ 
   max-width: 100%;
 }
 .img-thumbnail {

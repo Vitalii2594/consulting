@@ -12733,7 +12733,6 @@ p {
 img {
   display: block;
   max-width: 100%;
-  height: auto;
 }
 a {
   text-decoration: initial;
@@ -13106,7 +13105,6 @@ ol {
 }
 .dkr-cnt {
   align-items: center;
-  padding-bottom: 40px;
 }
 
 .title-four-cat {
@@ -13150,4 +13148,8 @@ ol {
   color: white;
   font-size: 26px;
   font-weight: 400;
+}
+.logo-img {
+  margin-right: 40px;
+  margin-left: 40px;
 }
