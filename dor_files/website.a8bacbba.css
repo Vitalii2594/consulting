@@ -12784,6 +12784,13 @@ ol {
   padding-bottom: 20px;
   padding-top: 20px;
 }
+.first-title-page {
+  color: #006b52;
+  font-size: 26px;
+  font-weight: 600;
+  padding-bottom: 20px;
+  padding-top: 60px;
+}
 .three-title {
   color: rgb(37, 37, 37);
   font-size: 26px;
@@ -12820,15 +12827,13 @@ ol {
   font-weight: bold;
 }
 .first-img {
-  width: 100%;
-
-  contain: content;
+  margin-left: 60px;
 }
 .back-text-one {
   background-color: #006b52;
-  max-width: 800px;
+  max-width: 900px;
+
   margin-left: auto;
-  margin-top: 0;
   padding: 80px 40px 80px 40px;
 }
 .text-content-title {
@@ -13011,6 +13016,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  margin-left: 40px;
   padding-bottom: 20px;
   padding-left: 20px;
   padding-top: 20px;
@@ -13030,6 +13036,9 @@ ol {
   font-weight: 600;
   margin-right: 8px;
   color: white;
+}
+.wrn-img {
+  margin-left: 160px;
 }
 .lst-cnt-gen {
   display: flex;
