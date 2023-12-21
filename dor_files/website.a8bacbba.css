@@ -12717,9 +12717,6 @@ ul.dk-search-results-items li {
   padding-left: 0;
   padding-right: 0;
 }
-/* body {
-  font-family: "Poppins", sans-serif;
-} */
 
 h1,
 h2,
@@ -12762,14 +12759,6 @@ ol {
 .link {
   text-decoration: none;
 }
-/* .container {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1200px;
-  width: 100%;
-  padding: 60px;
-} */
-
 .cyber-page-title {
   color: rgb(37, 37, 37);
   font-size: 54px;
